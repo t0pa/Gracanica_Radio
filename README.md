@@ -1,1 +1,1 @@
-This is fun project I did for my local radio station.  
+This is a project I did for my local radio station.  
